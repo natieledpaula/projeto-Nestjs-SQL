@@ -49,8 +49,8 @@ src/
 POST /auth/register
 ```
 {
-  "nome": "Gabriel",
-  "email": "gabriel@email.com",
+  "nome": "natiele",
+  "email": "natiele@email.com",
   "password": "123456"
 }
 ````
